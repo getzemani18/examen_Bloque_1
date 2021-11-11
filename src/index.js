@@ -20,4 +20,17 @@ let bootcampData = (data) => {
     for (const cumpleaños of data.examen) {
         Miembros.innerHTML += ` <h4 class="cumpleaños"> ${cumpleaños.cumpleaños} </h4> `
     }
+    for (const edad of data.examen) {
+        Miembros.innerHTML += ` <h4 class="cumpleaños"> ${edad.Edad} </h4> `
+    }
+}
+
+
+let Datos = (datos) => {
+    console.log(Datos)
+   for (const Pintar of datos) {
+       Miembros.innerHTML += `<h3 class="miembros"> ${Pintar.nombre} ${Pintar.Apellido} </h3>
+        `
+       
+   }
 }
