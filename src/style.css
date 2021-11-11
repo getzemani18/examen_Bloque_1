@@ -1,0 +1,8 @@
+body {
+  background-color: teal;
+}
+
+.miembros {
+  display: inline;
+  padding-right: 0.5em;
+}

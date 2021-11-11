@@ -1,0 +1,47 @@
+{
+   "examen" : [
+       {
+         "nombre" : "Amanda",
+         "Apellido" : "Ramirez",
+         "Edad": "18",
+         "cumpleaños" : "25/11"
+       },
+       {
+           "nombre" : "Beto",
+           "Apellido" : "Guitierrez",
+           "edad" : "30",
+           "cumpleaños": "13/7"
+       },
+       {
+        "nombre" : "Oscar",
+         "Apellido" : "Ruiz",
+         "Edad": "30",
+         "cumpleaños" : "28/12/"
+       },
+       {
+        "nombre" : "Monica",
+         "Apellido" : "Macal",
+         "Edad": "29",
+         "cumpleaños" : "23/5/"
+       },
+       {
+        "nombre" : "David",
+         "Apellido" : "Hernandez",
+         "Edad": "29",
+         "cumpleaños" : "16/2/"
+       },
+       {
+        "nombre" : "Fernanda",
+         "Apellido" : "Fajardo",
+         "Edad": "18",
+         "cumpleaños" : "2/1/"
+       },
+       {
+        "nombre" : "Jazo",
+         "Apellido" : "Ramirez",
+         "Edad": "34",
+         "cumpleaños" : "15/5/"
+       }
+
+    ]
+}
