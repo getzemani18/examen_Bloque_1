@@ -21,3 +21,11 @@ body {
   text-align: center;
   align-content: center;
 }
+
+.edad {
+  display: inline-table;
+  padding-right: 7.8em;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}

@@ -22,7 +22,7 @@ let bootcampData = (data) => {
         Miembros.innerHTML += ` <h4 class="cumpleaños"> ${cumpleaños.cumpleaños} </h4> `
     }
     for (const edad of data.examen) {
-        Miembros.innerHTML += ` <h4 class="cumpleaños"> ${edad.Edad} </h4> `
+        Miembros.innerHTML += ` <h4 class="edad"> ${edad.Edad} </h4> `
     }
 }
 
